@@ -2,8 +2,8 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning - ReactJs
 - 💞️ I’m looking to collaborate with - Other developers in community.
-- 📫 How to reach me:
-          sdgmarton@gmail.com 
+- 📫 How to reach me:   <br>
+          sdgmarton@gmail.com <br>
           LinkedIn: https://www.linkedin.com/in/sdgmarton/
 
 <!---
